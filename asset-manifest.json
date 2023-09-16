@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/Flightflying/static/css/main.a6fcd4f7.css",
+    "main.js": "/Flightflying/static/js/main.7ab82c68.js",
+    "static/media/plane.png": "/Flightflying/static/media/plane.33ce7ff30421a8f9acd8.png",
+    "index.html": "/Flightflying/index.html",
+    "main.a6fcd4f7.css.map": "/Flightflying/static/css/main.a6fcd4f7.css.map",
+    "main.7ab82c68.js.map": "/Flightflying/static/js/main.7ab82c68.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a6fcd4f7.css",
+    "static/js/main.7ab82c68.js"
+  ]
+}
