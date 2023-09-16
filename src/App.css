@@ -1,5 +1,8 @@
 body{
   overflow-x: hidden;
+  background-image: url('images/Sky.jpeg');
+  background-size: cover;
+  background-repeat: no-repeat;
 }
 img {
   width: 120px;
